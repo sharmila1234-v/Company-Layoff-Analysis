@@ -1,0 +1,11 @@
+Company,Industry,Country,Year,Month,Laid_Off_Count,Total_Employees,Funds_Raised ($M)
+Amazon,E-Commerce,USA,2023,Jan,27000,1600000,10.5
+Meta,Tech,USA,2023,Mar,21000,87000,5.2
+Google,Tech,USA,2023,Apr,12000,135000,3.8
+Microsoft,Tech,USA,2023,Feb,10000,221000,2.5
+SAP,Software,Germany,2023,May,8000,100000,1.9
+Uber,Transport,USA,2022,Jun,5000,32000,0.15
+Twitter,Social Media,USA,2022,Nov,4400,7500,0.04
+Netflix,Media,USA,2022,Dec,3000,12000,0.49
+WeWork,Real Estate,USA,2021,Jul,2000,4000,0.09
+ByteDance,Social Media,China,2024,Aug,1500,110000,0.05
